@@ -34,3 +34,5 @@ python/LICENSE.txt
 *.swp
 .cache
 *.un~
+.python-version
+bots/
